@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Computer2",
+      "price": 1300,
+      "quantity": 400,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Computer3",
+      "price": 2300,
+      "quantity": 300,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Computer4",
+      "price": 1300,
+      "quantity": 200,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "computer5",
+      "price": "1217",
+      "quantity": "341",
+      "selected": "true",
+      "available": "false",
+      "id": 5
+    }
+  ]
+}
